@@ -5,10 +5,11 @@ body {
    text-align: center;
    margin-right: auto;
    max-width: 840px
-
-
 }
 
+li {
+    text-indent: -4px;
+}
 h1 {
   color: #ff0038;
   text-align: center;
@@ -24,5 +25,8 @@ h2 {
 p {
   color: #ff0038;
   width: 800px
+}
 
+a {
+    color: #ff0038;
 }
